@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://pomf2.lain.la/f/t7n08nic.jpg" alt="" />
+
 # Untuk Semuanya. Sukarela.
 
 </div>
@@ -11,3 +13,7 @@ Ada banyak judul-judul yang menarik di luar sana, tapi sayangnya judul itu tidak
 Admin di sini hadir untuk mencoba mengisi kekosongan dengan menerjemahkan judul-judul tersebut agar penggemar dari Indonesia dapat sama-sama menikmatinya, untung-untung jika penerima lisensi mau mengajukan lisensi untuk bahasa Indonesia secara resmi setelah melihat antusias kita. Itulah _goal_ admin.
 
 Maka dari itu, admin ingin dukungan kalian agar proyek ini terus berlangsung!<br>Admin sadar yang dilakukan ini adalah pelanggaran hak cipta, tapi sepertinya hanya ini satu-satunya cara untuk disadari.
+
+## Kontak
+[nomiru.zone.id](nomiru.zone.id)<br>
+Simpan alamat situs admin berikut untuk berjaga-jaga bila _repository_ atau akun ini terkena patroli. Saat itu terjadi, admin akan mengatur ulang peralihan alamat situs  ke akun admin yang baru.
