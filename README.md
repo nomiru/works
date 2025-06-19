@@ -10,8 +10,10 @@
 
 Fokus kami adalah menyediakan terjemahan bahasa Indonesia secara sukarela untuk judul yang belum terjamah _licensor_ Indonesia.
 
+Pastikan untuk membeli konten resminya bila telah tersedia di Indonesia demi mendukung _author_ aslinya. Bagaimana pun juga, yang kami lakukan ini merupakan pelanggaran hak cipta, mengingat semua yang dilakukan di sini tanpa seizin/sepengetahuan pemilik hak cipta.
+
 ## Cara Mengakses Garapan
-Garapan dapat diakses langsung dari _repository_ ini, caranya tinggal pencet fail _markdown_ judul yang dicari, maka akan langsung tampil tautan unduh dan tautan luar terkait.
+Garapan dapat diakses langsung dari _repository_ ini, caranya tinggal pencet fail _markdown_ judul yang dicari, maka akan muncul tautan baca dan unduh.
 
 ## Kontak
 - [nomiru.zone.id](https://nomiru.zone.id)<br>
