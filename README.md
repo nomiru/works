@@ -10,7 +10,7 @@
 
 <div align="justify">
 
-Fokus admin adalah menyediakan terjemahan bahasa Indonesia untuk judul yang belum terjamah penerima lisensi Indonesia dan mendapatkan hatinya <3.
+Fokus admin adalah menyediakan terjemahan bahasa Indonesia secara sukarela untuk judul yang belum terjamah penerima lisensi Indonesia dan mendapatkan hatinya <3.
 
 Ada banyak judul-judul yang menarik di luar sana, tapi sayangnya judul itu tidak terlalu populer, yang menjadikan penerima lisensi tak tertarik menyediakan terjemahan bahasa Indonesia dan membuat judul tersebut makin tenggelam karena penggemar dari Indonesia tak bisa menikmatinya.
 
