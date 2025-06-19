@@ -1,7 +1,5 @@
 <div align="center">
 
-<div align="justify">
-
 <img src="https://pomf2.lain.la/f/t7n08nic.jpg" alt="" width="350" style="max-width:100%; height:auto;" />
 
 # Untuk Semuanya. Sukarela.
