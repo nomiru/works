@@ -13,7 +13,7 @@ Fokus kami adalah menyediakan terjemahan bahasa Indonesia secara sukarela untuk 
 Pastikan untuk membeli konten resminya bila telah tersedia di Indonesia demi mendukung _author_ aslinya. Bagaimana pun juga, yang kami lakukan ini merupakan pelanggaran hak cipta, mengingat semua konten yang disajikan tidak memiliki izin atau tanpa sepengetahuan pemilik hak cipta.
 
 ## Cara Mengakses Garapan
-Garapan dapat diakses langsung dari _repository_ ini, caranya tinggal pencet fail _markdown_ judul yang dicari, maka akan muncul tautan baca dan unduh.
+Garapan dapat diakses langsung dari _repository_ ini, caranya tinggal pencet fail _markdown_ judul yang dicari, maka akan muncul tautan terkait.
 
 ## Kontak
 - [nomiru.zone.id](https://nomiru.zone.id)<br>
