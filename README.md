@@ -8,9 +8,9 @@
 
 <div align="justify">
 
-Fokus admin adalah menyediakan terjemahan bahasa Indonesia secara sukarela untuk judul yang belum terjamah penerima lisensi Indonesia dan mendapatkan hatinya <3.
+Fokus admin adalah menyediakan terjemahan bahasa Indonesia secara sukarela untuk judul yang belum terjamah penerima lisensi Indonesia.
 
-Ada banyak judul-judul yang menarik di luar sana, tapi sayangnya judul itu tidak terlalu populer, yang menjadikan penerima lisensi tak tertarik menyediakan terjemahan bahasa Indonesia.
+Ada banyak judul-judul yang menarik di luar sana, tapi sayangnya judul tersebut tidak populer di Indonesia, yang menjadikan penerima lisensi tak tertarik menyediakan terjemahan bahasa Indonesia.
 
 Admin di sini hadir untuk mencoba mengisi kekosongan tersebut dengan menerjemahkan judul-judul terkait agar penggemar dari Indonesia dapat sama-sama menikmatinya, untung-untung jika penerima lisensi mau mengajukan lisensi untuk bahasa Indonesia secara resmi. Itulah _goal_ admin.
 
