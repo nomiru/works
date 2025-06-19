@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://pomf2.lain.la/f/t7n08nic.jpg" alt="" width="350" style="max-width:100%; height:auto; border-radius:16px;" />
+<img src="https://pomf2.lain.la/f/t7n08nic.jpg" alt="Nomiru profile" width="350" style="max-width:100%; height:auto; border-radius:16px;" />
 
 # Untuk Semuanya. Sukarela.
 
